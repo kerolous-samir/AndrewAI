@@ -1,0 +1,11 @@
+bitsandbytes
+transformers
+huggingface_hub
+diffusers
+langchain
+gradio
+chroma
+torch
+numpy
+scikit-learn
+plotly
